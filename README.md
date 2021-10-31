@@ -15,9 +15,6 @@
 
 1. Proyecto.
 2. Lenguaje.
-3. 
-4. Awards.
-5. Alumni.
 
 ## Proyecto
 
